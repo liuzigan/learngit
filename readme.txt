@@ -4,3 +4,4 @@ $ git commit -m "add 3 files." LALA
 Git has a mutable index called stage.
 
 git trace changes of file end.
+tt
